@@ -1,4 +1,41 @@
 {
+  "People": [
+    {
+      "width": 2048,
+      "path": "./photos/People/35170077835_e0f00b0954_k.jpg",
+      "height": 1365
+    },
+    {
+      "width": 2048,
+      "path": "./photos/People/33860642404_d62efdd533_k.jpg",
+      "height": 1365
+    },
+    {
+      "width": 2048,
+      "path": "./photos/People/31555585464_baa64f89b3_k.jpg",
+      "height": 1365
+    },
+    {
+      "width": 2048,
+      "path": "./photos/People/39867789981_20129ed531_k.jpg",
+      "height": 1365
+    },
+    {
+      "width": 2048,
+      "path": "./photos/People/34595876696_abd18f5e4f_k.jpg",
+      "height": 1365
+    },
+    {
+      "width": 2048,
+      "path": "./photos/People/34595875926_46607a614e_k.jpg",
+      "height": 1365
+    },
+    {
+      "width": 2048,
+      "path": "./photos/People/32595644793_0547b44639_k.jpg",
+      "height": 1365
+    }
+  ],
   "Urban": [
     {
       "width": 2048,
@@ -6,9 +43,24 @@
       "height": 1152
     },
     {
+      "width": 1616,
+      "path": "./photos/Urban/37670134182_ed2a89648d_o.jpg",
+      "height": 1080
+    },
+    {
       "width": 2048,
       "path": "./photos/Urban/25854953442_b6800f4a05_k.jpg",
       "height": 1152
+    },
+    {
+      "width": 4032,
+      "path": "./photos/Urban/37246691876_b41c7a53ab_o.jpg",
+      "height": 3024
+    },
+    {
+      "width": 8192,
+      "path": "./photos/Urban/sydney_pano.jpg",
+      "height": 1856
     },
     {
       "width": 1152,
@@ -53,38 +105,7 @@
       "height": 1365
     }
   ],
-  "People": [
-    {
-      "width": 2048,
-      "path": "./photos/People/35170077835_e0f00b0954_k.jpg",
-      "height": 1365
-    },
-    {
-      "width": 2048,
-      "path": "./photos/People/33860642404_d62efdd533_k.jpg",
-      "height": 1365
-    },
-    {
-      "width": 2048,
-      "path": "./photos/People/31555585464_baa64f89b3_k.jpg",
-      "height": 1365
-    },
-    {
-      "width": 2048,
-      "path": "./photos/People/39867789981_20129ed531_k.jpg",
-      "height": 1365
-    },
-    {
-      "width": 2048,
-      "path": "./photos/People/34595876696_abd18f5e4f_k.jpg",
-      "height": 1365
-    },
-    {
-      "width": 2048,
-      "path": "./photos/People/34595875926_46607a614e_k.jpg",
-      "height": 1365
-    }
-  ],
+
   "Nature": [
     {
       "width": 2048,
