@@ -1,41 +1,4 @@
 {
-  "People": [
-    {
-      "width": 2048,
-      "path": "./photos/People/35170077835_e0f00b0954_k.jpg",
-      "height": 1365
-    },
-    {
-      "width": 2048,
-      "path": "./photos/People/33860642404_d62efdd533_k.jpg",
-      "height": 1365
-    },
-    {
-      "width": 2048,
-      "path": "./photos/People/31555585464_baa64f89b3_k.jpg",
-      "height": 1365
-    },
-    {
-      "width": 2048,
-      "path": "./photos/People/39867789981_20129ed531_k.jpg",
-      "height": 1365
-    },
-    {
-      "width": 2048,
-      "path": "./photos/People/34595876696_abd18f5e4f_k.jpg",
-      "height": 1365
-    },
-    {
-      "width": 2048,
-      "path": "./photos/People/34595875926_46607a614e_k.jpg",
-      "height": 1365
-    },
-    {
-      "width": 2048,
-      "path": "./photos/People/32595644793_0547b44639_k.jpg",
-      "height": 1365
-    }
-  ],
   "Urban": [
     {
       "width": 2048,
@@ -53,9 +16,19 @@
       "height": 1152
     },
     {
-      "width": 4032,
+      "width": 3024,
       "path": "./photos/Urban/37246691876_b41c7a53ab_o.jpg",
-      "height": 3024
+      "height": 4032
+    },
+    {
+      "width": 2048,
+      "path": "./photos/Urban/38956666180_1f32f639d8_k.jpg",
+      "height": 1365
+    },
+    {
+      "width": 2048,
+      "path": "./photos/Urban/40050263484_124a8cdd6b_k.jpg",
+      "height": 1365
     },
     {
       "width": 8192,
@@ -105,7 +78,58 @@
       "height": 1365
     }
   ],
-
+  "People": [
+    {
+      "width": 2048,
+      "path": "./photos/People/35170077835_e0f00b0954_k.jpg",
+      "height": 1365
+    },
+    {
+      "width": 2048,
+      "path": "./photos/People/27023681968_2ec892ef2a_k.jpg",
+      "height": 1365
+    },
+    {
+      "width": 2048,
+      "path": "./photos/People/33860642404_d62efdd533_k.jpg",
+      "height": 1365
+    },
+    {
+      "width": 1365,
+      "path": "./photos/People/26889554338_033b66a64b_k.jpg",
+      "height": 2048
+    },
+    {
+      "width": 2048,
+      "path": "./photos/People/31555585464_baa64f89b3_k.jpg",
+      "height": 1365
+    },
+    {
+      "width": 2048,
+      "path": "./photos/People/39867789981_20129ed531_k.jpg",
+      "height": 1365
+    },
+    {
+      "width": 2048,
+      "path": "./photos/People/34595876696_abd18f5e4f_k.jpg",
+      "height": 1365
+    },
+    {
+      "width": 2048,
+      "path": "./photos/People/27015946338_0a7b7d10ff_k.jpg",
+      "height": 1365
+    },
+    {
+      "width": 2048,
+      "path": "./photos/People/34595875926_46607a614e_k.jpg",
+      "height": 1365
+    },
+    {
+      "width": 2048,
+      "path": "./photos/People/32595644793_0547b44639_k.jpg",
+      "height": 1365
+    }
+  ],
   "Nature": [
     {
       "width": 2048,
@@ -115,6 +139,11 @@
     {
       "width": 2048,
       "path": "./photos/Nature/38968648555_2f167dc820_k.jpg",
+      "height": 1365
+    },
+    {
+      "width": 2048,
+      "path": "./photos/Nature/39992601185_cd28c70d92_k.jpg",
       "height": 1365
     },
     {
