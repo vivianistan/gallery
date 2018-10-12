@@ -1,9 +1,9 @@
 # Gallery
-A photography portfolio generator with web hosting for your photo albums. Requires no 3rd party libraries or installations. A 🤑free🤑 Squarespace alternative for your photos. Live demo at http://andyzhang.net/gallery
+A visual portfolio generator with web hosting for your mockups and photo albums. Requires no 3rd party libraries or installations. A 🤑free🤑 Squarespace alternative for your photos. Live demo at http://andyzhang.net/gallery
 
-![demo](./demo.gif)
+![demo](http://g.recordit.co/myz4N5iMzg.gif)
 
-*Gallery is a side project of mine to allow me to create a more curated version of my photography portfolio. It's intended to have a simple setup process that is accessible by anyone. If you have any feedback for Gallery, [drop me a line](mailto:andzhng@gmail.com?Subject=Hey!) :)*
+*Gallery is a side project of mine to allow me to create a more curated version of my photography and mockup portfolio. It's intended to have a simple setup process that is accessible by anyone. If you have any feedback for Gallery, [drop me a line](mailto:andzhng@gmail.com?Subject=Hey!) :)*
 
 
 ## Dependencies
@@ -11,12 +11,13 @@ A photography portfolio generator with web hosting for your photo albums. Requir
 
 ## Making your own gallery in less than 5 minutes
 - Fork this repository🍴
-- Clone the repository through terminal by running 
+- Clone the repository through terminal by running
 `git clone git@github.com:{YOUR_USERNAME}/gallery.git`
-- Replace contents of `/photos` with all of your albums. For each of your albums, create a folder with the same name as your album name, and then put all of your photos in the folder. Example:
+- Replace contents of `/photos` with all of your albums. For each of your albums, create a folder with the same name as your album name, and then put all of your photos in the folder. 
+**Example**:
 ```
 /photos
-  /travel
+  /mockups
     IMG_0123.jpg
     IMG_0124.jpg
   /portrait
@@ -34,7 +35,7 @@ $ git push origin gh-pages  # This pushes your gallery to be hosted!
 ```
 - Check out your site at {username}.github.io/gallery 🎉✨!
 
-*Important notes:* To ⏭speed⏭ up the loading time of your gallery, please make sure to compress your images.  
+*Important notes:* To ⏭speed⏭ up the loading time of your gallery, please make sure to compress your images. If you're running this on a macOS system, this is done automatically for you using `sips`!
 If you want Google Analytics, replace `_includes/ga.html` with your own snippet.
 
 
@@ -69,24 +70,17 @@ Columns takes priority if both are set.
 ### Row Configuration
 - `maxHeight` (Integer): The max height in px for each photo. *Default is `400`*.
 
+### Instagram
+- `instagram` (String): Your Instagram handle. If no string is passed, no footer
+  is rendered.
+
 
 ## Fun Facts
-- No jQuery is used. AT ALL! 🔥🔥🔥
 - No Bootstrap is used. AT ALL! 🔥🔥🔥
 - It uses ES6. NEW TECH! 🔥🔥🔥
 - It has no local dependencies. SAY WHAT! 🔥🔥🔥
 
 🔥🔥🔥
-
-
-## Next Steps
-- Make layout responsive
-- Support lazy loading
-- Support better album navigation
-- Create a better UX for setting up a gallery
-- Support zoom on a photo
-- Enable additional info on page(contact, links)
-- SEO
 
 ---
 
