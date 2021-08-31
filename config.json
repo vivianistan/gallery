@@ -153,14 +153,6 @@
       "compressed": false,
       "placeholder_path": "./photos/Urban/39884263902_475967d4b3_k.placeholder.jpg",
       "path": "./photos/Urban/39884263902_475967d4b3_k.jpg"
-    },
-    {
-      "height": 1365,
-      "compressed_path": "./photos/Urban/40050263484_124a8cdd6b_k (1).min.jpeg",
-      "width": 2047,
-      "compressed": false,
-      "placeholder_path": "./photos/Urban/40050263484_124a8cdd6b_k (1).placeholder.jpeg",
-      "path": "./photos/Urban/40050263484_124a8cdd6b_k (1).jpeg"
     }
   ],
   "Astrophotography": [
@@ -171,14 +163,6 @@
       "compressed": false,
       "placeholder_path": "./photos/Astrophotography/36003000461_8711e8456d_k.placeholder.jpg",
       "path": "./photos/Astrophotography/36003000461_8711e8456d_k.jpg"
-    },
-    {
-      "height": 1365,
-      "compressed_path": "./photos/Astrophotography/36003000461_8711e8456d_k.min.jpeg",
-      "width": 2048,
-      "compressed": false,
-      "placeholder_path": "./photos/Astrophotography/36003000461_8711e8456d_k.placeholder.jpeg",
-      "path": "./photos/Astrophotography/36003000461_8711e8456d_k.jpeg"
     },
     {
       "height": 1365,
@@ -195,22 +179,6 @@
       "compressed": false,
       "placeholder_path": "./photos/Astrophotography/35329085493_43cbf706c7_k.placeholder.jpg",
       "path": "./photos/Astrophotography/35329085493_43cbf706c7_k.jpg"
-    },
-    {
-      "height": 1365,
-      "compressed_path": "./photos/Astrophotography/28063369889_ae87c6b6b0_k.min.jpeg",
-      "width": 2048,
-      "compressed": false,
-      "placeholder_path": "./photos/Astrophotography/28063369889_ae87c6b6b0_k.placeholder.jpeg",
-      "path": "./photos/Astrophotography/28063369889_ae87c6b6b0_k.jpeg"
-    },
-    {
-      "height": 1365,
-      "compressed_path": "./photos/Astrophotography/39842440051_4289fb3c88_k.min.jpeg",
-      "width": 2048,
-      "compressed": false,
-      "placeholder_path": "./photos/Astrophotography/39842440051_4289fb3c88_k.placeholder.jpeg",
-      "path": "./photos/Astrophotography/39842440051_4289fb3c88_k.jpeg"
     },
     {
       "height": 1365,
